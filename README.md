@@ -2,7 +2,7 @@
   <img src="https://github.com/xabdata/xab-repo/blob/main/assets/perfil.png" alt="Xabier — Perfil" />
 </p>
 
-I’m **Xabier**. I build and learn around **Data Science** and **LLM projects** — reproducible notebooks, small pipelines, and practical evaluation.
+Hi... I’m **Xabier**. I build and learn around **Data Science** and **LLM projects** — reproducible notebooks, small pipelines, and practical evaluation.
 
 ## Current focus
 - Applied LLM work: **RAG**, agents, tool use, and best practices
