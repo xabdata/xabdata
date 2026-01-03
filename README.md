@@ -1,6 +1,6 @@
 # xabdata
 
-I’m **Xabier**. 
+I’m **Xabier**.  
 I build and learn around **Data Science** and **LLM projects** — reproducible notebooks, small pipelines, and practical evaluation.
 
 ## Current focus
