@@ -1,5 +1,9 @@
 # xabdata
 
+<p align="center">
+  <img src="https://github.com/xabdata/xab-repo/blob/main/assets/perfil.png" alt="Xabier — Perfil" />
+</p>
+
 I’m **Xabier**. I build and learn around **Data Science** and **LLM projects** — reproducible notebooks, small pipelines, and practical evaluation.
 
 ## Current focus
