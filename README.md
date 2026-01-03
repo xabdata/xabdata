@@ -30,5 +30,5 @@ I’m **Xab**. I build and learn around **Data Science** and **LLM projects** �
 **GitHub:** `xabdata`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xabdata/xab.repo/main/assets/banner.png" alt="Xabier — Data Science & LLM Projects" width="100%" />
+  <img src="https://github.com/xabdata/xab-repo/blob/main/assets/banner.png" alt="Xabier — Data Science & LLM Projects" width="100%" />
 </p>
