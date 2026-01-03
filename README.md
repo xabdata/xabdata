@@ -1,5 +1,3 @@
-# xabdata
-
 <p align="left">
   <img src="https://github.com/xabdata/xab-repo/blob/main/assets/perfil.png" alt="Xabier — Perfil" />
 </p>
