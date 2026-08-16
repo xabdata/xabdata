@@ -1,36 +1,52 @@
 <p align="left">
-  <img src="https://github.com/xabdata/xab-repo/blob/main/assets/perfil.png" alt="Xabier — Perfil" />
+  <img src="https://github.com/xabdata/xabdata/blob/main/assets/perfil.png" alt="Xabier — Profile" />
 </p>
 
-Hi... I’m **Xabier**. I build and learn around **Data Science** and **Ai Engineering** — reproducible notebooks, small pipelines, and practical evaluation.
+# Hi, I'm Xabier
+
+I'm a **Data Science student** building practical skills in **AI Engineering, Python, and applied LLM systems**.
+
+I'm focused on turning data and AI concepts into small, reproducible projects — from data analysis and pipelines to APIs, evaluation workflows, and LLM applications.
 
 ## Current focus
-- Applied LLM work: **RAG**, agents, tool use, and best practices
-- Evaluation: metrics, tests, prompts, and dataset curation
-- Data workflows: cleaning, analysis, visualization, and automation
 
-## Typical stack
-- Python (pandas, numpy, scikit-learn)
-- Jupyter / reproducible notebooks
-- Git + good practices (tests, linting, project structure)
-- (Project-dependent) APIs, embeddings, vector DBs, etc.
+- **AI Engineering:** LLM applications, RAG, agents, tool use, and API integration
+- **Data Science:** data cleaning, analysis, visualization, statistics, and machine learning
+- **Evaluation:** metrics, testing, prompt evaluation, and dataset curation
+- **Software fundamentals:** Python, APIs, databases, testing, Git, and containerization
+- **Automation:** practical workflows connecting data, APIs, and AI systems
 
-## Featured repos (examples)
-- **llm-notebooks** — Experiments & notes (RAG, prompting, evaluation)
-- **rag-playground** — Retrieval, reranking, and ablation tests
-- **agents-lab** — Agents + tool use prototypes
-- **data-pipelines** — Small ETL/ELT and automation workflows
+## Tech stack
 
-> Some projects may stay private until they’re cleaned up for a public release.
+- **Languages:** Python, SQL
+- **Data:** pandas, NumPy, scikit-learn
+- **Development:** Git, GitHub, pytest
+- **Notebooks:** Jupyter
+- **Databases:** PostgreSQL
+- **Infrastructure:** Docker
+- **AI:** LLM APIs, RAG, embeddings, agents, and tool use
+
+## What I'm building
+
+I'm currently developing projects that bridge **Data Science and AI Engineering**, with an emphasis on practical implementation rather than isolated experiments.
+
+My goal is to build systems that combine:
+
+`data → APIs → models → evaluation → persistence → automation`
+
+Some projects remain private while they're being developed and will be published once they're ready to be presented as complete, reproducible work.
 
 ## How I work
-- Reproducibility: clear README, pinned env/requirements, seeds when it helps
-- Quality: basic tests, consistent structure, minimal but useful docs
-- Iteration: fast experiments + tracked results
+
+- **Reproducibility:** clear environments, documented dependencies, and structured projects
+- **Quality:** testing, readable code, Git history, and useful documentation
+- **Iteration:** small experiments, measurable results, and incremental improvements
+- **Learning by building:** applying concepts through complete projects rather than isolated exercises
 
 ---
+
 **GitHub:** `xabdata`
 
 <p align="center">
-  <img src="https://github.com/xabdata/xab-repo/blob/main/assets/banner.png" alt="Xabier — Data Science & LLM Projects" width="100%" />
+  <img src="https://github.com/xabdata/xabdata/blob/main/assets/banner.png" alt="Xabier — Data Science & AI Engineering" width="100%" />
 </p>
