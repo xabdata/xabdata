@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/xabdata/archive/blob/main/assets/perfil.png" alt="Xabier — Profile" />
+  <img src="https://github.com/xabdata/xabdata/blob/main/assets/perfil.png" alt="Xabier — Profile" />
 </p>
 
 # Hi, I'm Xabier
@@ -48,5 +48,5 @@ Some projects remain private while they're being developed and will be published
 **GitHub:** `xabdata`
 
 <p align="center">
-  <img src="https://github.com/xabdata/archive/blob/main/assets/banner.png" alt="Xabier — Data Science & AI Engineering" width="100%" />
+  <img src="https://github.com/xabdata/xabdata/blob/main/assets/banner.png" alt="Xabier — Data Science & AI Engineering" width="100%" />
 </p>
