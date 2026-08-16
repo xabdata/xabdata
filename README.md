@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/xabdata/xabdata/blob/main/assets/perfil.png" alt="Xabier — Profile" />
+  <img src="img src="https://github.com/xabdata/xab-repo/blob/main/assets/perfil.png" alt="Xabier — Profile" />
 </p>
 
 # Hi, I'm Xabier
