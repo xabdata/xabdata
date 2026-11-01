@@ -76,3 +76,9 @@ Some projects remain private during development and will be published when they 
 **Currently learning, building, and documenting my journey from Data Science to AI Engineering.**
 
 **GitHub:** [xabdata](https://github.com/xabdata)
+
+## Beyond GitHub
+
+I'm also developing [FlowDataLab](https://flowdatalab.com),
+an initiative focused on practical AI agents, data
+integration, and business process automation.
