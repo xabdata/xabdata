@@ -47,6 +47,3 @@ Some projects remain private while they're being developed and will be published
 
 **GitHub:** `xabdata`
 
-<p align="center">
-  <img src="https://github.com/xabdata/xabdata/blob/main/assets/banner.png" alt="Xabier — Data Science & AI Engineering" width="100%" />
-</p>
