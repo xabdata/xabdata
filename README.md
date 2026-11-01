@@ -38,9 +38,11 @@ Areas I'm actively exploring and developing:
 
 ### [AI Support Triage](https://github.com/xabdata/ai-support-triage)
 
-An AI-powered support ticket triage project built with **Python, FastAPI, OpenAI, and PostgreSQL**.
+An AI-powered support ticket triage API built with **Python, FastAPI, OpenAI, PostgreSQL, and Docker**. It classifies requests, suggests priorities, generates summaries and draft responses for human review, and stores the results.
 
 The project explores how LLMs can be integrated into structured application workflows, with an emphasis on evaluation, testing, and reproducibility.
+
+The repository includes automated tests and a documented 20-case model evaluation. It is a local demonstration; the same cases were used to evaluate and refine the prompt, so the results are not an independent assessment of production performance.
 
 **Key areas:**
 - LLM integration through APIs
@@ -77,8 +79,8 @@ Some projects remain private during development and will be published when they 
 
 **GitHub:** [xabdata](https://github.com/xabdata)
 
-## Beyond GitHub
+## FlowDataLab
 
-I'm also developing [FlowDataLab](https://flowdatalab.com),
-an initiative focused on practical AI agents, data
-integration, and business process automation.
+I'm also developing **[FlowDataLab](https://flowdatalab.com/)**, an initiative focused on practical AI agents, data integration, and process automation for small businesses.
+
+My public projects document the technical foundations I'm building in this direction: API integration, data persistence, evaluation, error handling, and human review. Each repository describes its implementation, results, and limitations.
